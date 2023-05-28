@@ -1,0 +1,3 @@
+###XDG.CONFIG
+
+dots
