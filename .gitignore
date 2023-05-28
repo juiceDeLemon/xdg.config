@@ -1,0 +1,12 @@
+# ignore all files
+*
+# add folders back
+!.gitignore
+!wezterm/
+!zsh/
+!lazygit/
+!zellij/
+!ranger/
+!linearmouse/
+!karabiner/
+!sketchybar/
