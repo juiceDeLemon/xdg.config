@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+- /Users/justincase/.config
+- /Users/justincase/.config/nvim
+- /Users/justincase/py_projects/shoot
+- /Users/justincase/Repos/neovim_plugins/flight.nvim
+- /Users/justincase/.config/philosophy
+- /Users/justincase/Repos/neovim
+- /Users/justincase/Repos/neovim_plugins_examples/cursorword
+- /Users/justincase/test/git-conflict
+- /Users/justincase/Repos/neovim_plugins_examples/jump
+startuppopupversion: 5
+customcommandshistory:
+- quit
+- q
+hidecommandlog: false
